@@ -1,5 +1,5 @@
 #Game theory problem generator
-
+[<img src="screenshot.png" align=right>
 I have recently been teaching Finite Mathematics at Furman University.  In our final chapter of the course, the students learned about the basics of game theory.  One method discussed is Iterated Elimination of Strictly Dominated Strategies, or IESDS for short.
 
 However, I have found it surprisingly difficult to find a body of practice problems for students to learn from.  After growing tired of hand-writing these problems, I decided to write a script to generate them automatically.
