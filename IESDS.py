@@ -1,11 +1,10 @@
 from random import randrange as rand
-# import numpy as np
 
 _min = -5
 _max = 7+1
 
 row_constraints = [2,6]
-col_constraints = [2,6]
+# col_constraints = [2,6]
 
 class Entry:
     def __init__(self, x, y):
